@@ -1,0 +1,11 @@
+{
+	"author": "Russ Vrolyk",
+	"gitHubUrl": "https://github.com/rvrolyk/Hubitat",
+	"payPalUrl": "https://www.paypal.me/rvrolyk",
+	"packages": [{
+		"name": "Sleep Number Controller",
+		"category": "Integrations",
+		"location": "https://raw.githubusercontent.com/rvrolyk/SleepNumberController/master/packageManifest.json",
+		"description": "Control your Sleep Number bed and use it for presence"
+	}]
+}
