@@ -1,17 +1,24 @@
 {
-	"author": "Russ Vrolyk",
-	"gitHubUrl": "https://github.com/rvrolyk/Hubitat",
-	"packages": [{
-		"name": "Envisalink Integration",
-		"category": "Integrations",
-		"location": "https://raw.githubusercontent.com/rvrolyk/hubitat_envisalink/master/packageManifest.json",
-		"description": ""
-	},
- {
-   "name": "Honeywelll Home - Lyric and T Series",
-   "category": "Integrations",
-   "location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/honeywellManifest.json",
-   "description": ""
- }
+  "author": "Russ Vrolyk",
+  "gitHubUrl": "https://github.com/rvrolyk/Hubitat",
+  "packages": [{
+      "name": "Envisalink Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/rvrolyk/hubitat_envisalink/master/packageManifest.json",
+      "description": "",
+      "tags": [
+        "Climate Control"
+      ]
+    },
+    {
+      "name": "Honeywelll Home - Lyric and T Series",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/honeywellManifest.json",
+      "description": "",
+      "tags": [
+        "Safety & Security"
+      ]
+    }
   ]
 }
+
