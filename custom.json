@@ -2,7 +2,7 @@
   "author": "Russ Vrolyk",
   "gitHubUrl": "https://github.com/rvrolyk/Hubitat",
   "packages": [{
-      "name": "Envisalink Integration",
+      "name": "Envisalink Integration (custom)",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/rvrolyk/hubitat_envisalink/master/packageManifest.json",
       "description": "",
@@ -11,7 +11,7 @@
      ]
     },
     {
-      "name": "Honeywelll Home - Lyric and T Series",
+      "name": "Honeywelll Home - Lyric and T Series (custom)",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/honeywellManifest.json",
       "description": "",
