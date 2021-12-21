@@ -1,9 +1,9 @@
 {
   "packageName": "Honeywell Home",
   "author": "Taylor Brown(@thecloudtaylor)",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "minimumHEVersion": "2.2.4",
-  "dateReleased": "2021-02-14",
+  "dateReleased": "2021-12-21",
   "apps": [
     {
       "id": "fe2bb542-854f-47b4-8d20-cde1ead99f2d",
@@ -23,7 +23,7 @@
       "namespace": "thecloudtaylor",
       "location": "https://raw.githubusercontent.com/rvrolyk/hubitat-honeywell/main/honeywellhomedriver.groovy",
       "required": true,
-      "version": "0.2.6"
+      "version": "0.2.7"
     },
     {
       "id": "ebe84e87-e064-4029-9e5b-ad0cb7939230",
