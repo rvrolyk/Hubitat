@@ -18,15 +18,6 @@
       "tags": [
         "Climate Control"   
       ]
-    },
-    {
-      "name": "Rvrolyk testing",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/testing/manifest.json",
-      "description": "",
-      "tags": [
-        "Testing"   
-      ]
     }
   ]
 }
