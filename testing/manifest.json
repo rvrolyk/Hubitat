@@ -1,0 +1,27 @@
+{
+    "packageName": "Test",
+    "author": "rvrolyk",
+    "version": "0.1.1",
+    "minimumHEVersion": "2.2.4",
+    "dateReleased": "2021-12-21",
+    "apps": [
+      {
+        "id": "b92d7139-d594-4afc-bbf5-a36f3522e698",
+        "name": "Test App",
+        "namespace": "rvrolyk",
+        "location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/testing/test_app.groovy",
+        "required": true
+      }
+    ],
+    "bundles": [
+      {
+        "id": "ee540e19-1750-489d-8c30-c9c67db5692f",
+        "name": "Test Bundle",
+        "namespace": "rvrolyk",
+        "location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/testing/test_bundle.zip",
+        "required": true
+      }
+    ],
+    "releaseNotes": "Test"
+  }
+  
